@@ -11,6 +11,8 @@
         left=3.5cm,right=2cm,top=3cm,bottom=3.5cm
     ]{geometry}
 
+    \usepackage{soul}
+
 
  %==================================== Font format
  \usepackage{fontspec}
