@@ -1,0 +1,41 @@
+%!TEX program = xelatex
+\immediate\write18{makeindex -s nomencl.ist -o "\jobname.nls" "\jobname.nlo"}
+\documentclass{Classes/UITBA}
+
+\selectlanguage{vietnamese}
+\include{Preamble/Premable}
+
+\begin{document}
+
+%\begin{otherlanguage}{vietnamese} %Uncomment this line and its corresponding ending line if \selectlanguage{english}
+
+\pagestyle{empty}
+\newgeometry{left=3cm,right=3cm,top=3cm,bottom=3cm}
+\include{Cover/Cover}
+\clearpage
+\restoregeometry
+
+\include{TheBoard/TheBoard}
+\include{Acknowledgement/Acknowledgement}
+\include{Comment/Comment}
+
+%\end{otherlanguage}
+
+\tableofcontents
+\listoffigures
+\listoftables
+\renewcommand{\nomname}{\IfLanguageName{vietnamese}{Danh sách các từ viết tắt}{Abbreviations}}
+\printnomenclature[2cm]
+ 
+\clearpage
+\pagestyle{plain}
+\setcounter{page}{1}
+
+\include{Abstract/Abstract}
+\include{Chapter1/Chapter1}
+\include{Chapter2/Chapter2}
+\include{Chapter3/Chapter3}
+
+\bibliography{Reference/Reference}
+
+\end{document}

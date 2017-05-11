@@ -1,0 +1,17 @@
+This is BibTeX, Version 0.99dThe top-level auxiliary file: thesis.aux
+The style file: IEEEtranN.bst
+A level-1 auxiliary file: Cover/Cover.aux
+A level-1 auxiliary file: TheBoard/TheBoard.aux
+A level-1 auxiliary file: Acknowledgement/Acknowledgement.aux
+A level-1 auxiliary file: Comment/Comment.aux
+A level-1 auxiliary file: Abstract/Abstract.aux
+A level-1 auxiliary file: Chapter1/Chapter1.aux
+A level-1 auxiliary file: Chapter2/Chapter2.aux
+A level-1 auxiliary file: Chapter3/Chapter3.aux
+Database file #1: Reference/Reference.bib
+-- IEEEtranN.bst version 1.13 (2008/09/30) by Michael Shell.
+-- http://www.michaelshell.org/tex/ieeetran/bibtex/
+-- See the "IEEEtran_bst_HOWTO.pdf" manual for usage information.
+** Natbib version - not for normal IEEE work.
+
+Done.
