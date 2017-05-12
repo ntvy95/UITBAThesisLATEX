@@ -1,12 +1,25 @@
+\boolfalse {citerequest}\boolfalse {citetracker}\boolfalse {pagetracker}\boolfalse {backtracker}\relax 
+\defcounter {refsection}{0}\relax 
 \select@language {vietnamese}
+\defcounter {refsection}{0}\relax 
 \select@language {vietnamese}
+\defcounter {refsection}{0}\relax 
 \contentsline {chapter}{Abstract}{1}{chapter*.9}
+\defcounter {refsection}{0}\relax 
 \contentsline {chapter}{\numberline {1}Mở đầu}{2}{chapter.1}
+\defcounter {refsection}{0}\relax 
 \contentsline {section}{\numberline {1.1}Tên khóa luận}{2}{section.1.1}
+\defcounter {refsection}{0}\relax 
 \contentsline {section}{\numberline {1.2}Tổng quan về khóa luận}{2}{section.1.2}
+\defcounter {refsection}{0}\relax 
 \contentsline {subsection}{\numberline {1.2.1}Đặt vấn đề}{2}{subsection.1.2.1}
+\defcounter {refsection}{0}\relax 
 \contentsline {subsection}{\numberline {1.2.2}Nội dung khóa luận}{4}{subsection.1.2.2}
+\defcounter {refsection}{0}\relax 
 \contentsline {chapter}{\numberline {2}Tổng quan}{5}{chapter.2}
+\defcounter {refsection}{0}\relax 
 \contentsline {section}{\numberline {2.1}Giới thiệu chung về phương pháp đề xuất}{5}{section.2.1}
+\defcounter {refsection}{0}\relax 
 \contentsline {chapter}{\numberline {3}Phương pháp đề xuất}{6}{chapter.3}
+\defcounter {refsection}{0}\relax 
 \contentsline {section}{\numberline {3.1}Giới thiệu chung về phương pháp đề xuất}{6}{section.3.1}

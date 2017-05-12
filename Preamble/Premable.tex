@@ -17,8 +17,20 @@
 
 %==================================== Bibliography
 
-\usepackage[numbers]{natbib}
-\bibliographystyle{IEEEtranN}
+\usepackage[backend=biber,style=numeric-comp,sorting=sample]{biblatex}
+\DeclareSortingScheme{sample}{
+	\sort{
+	\field{title}
+	}
+	\sort{
+	\field{author}
+	}
+	\sort{
+	\field{year}
+	}
+	\sort{\citeorder}
+}
+\addbibresource{Reference/Reference.bib}
 
 %==================================== Nomenclature
 
