@@ -56,7 +56,7 @@
 
 %====================================  Store array of string into a variable
 
-\usepackage{arrayjob}
+\usepackage{arrayjobx}
 
 %====================================  Independent parts
 
