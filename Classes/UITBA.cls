@@ -15,22 +15,34 @@
 
 
  %==================================== Font format
+
+ % Setup Times New Roman
  \usepackage{fontspec}
  \setmainfont{Times New Roman}
+%% Setup uppercase Times New Roman for a whole page
+\setmainfont{Times New Roman}
+\newfontfamily{\uctimes}{Times New Roman}[
+  Mapping=uc-text
+]
+
+% Set 1.5 lines
  \usepackage{setspace}
 \onehalfspacing
+
+% Change the format of the chapter
 \makeatletter
 \renewcommand*{\chapterformat}{\mbox{\chapapp~\thechapter\autodot\enskip}}
 \renewcommand\chapterlinesformat[3]{\@hangfrom{#2}{\MakeUppercase{#3}}
 }
 \makeatother
 \addtokomafont{disposition}{\rmfamily\bfseries}
-\addtokomafont{chapter}{\fontsize{14}{21}\selectfont}
+\addtokomafont{chapter}{\fontsize{14}{0}\selectfont}
 \addtokomafont{section}{\normalsize}
 \addtokomafont{subsection}{\normalsize\selectfont}
 \setlength{\parskip}{6pt}
 \setlength{\parindent}{0.5in}
 \usepackage{indentfirst}
+
 
 %====================================  Language format
 \usepackage[utf8]{inputenc}
