@@ -133,3 +133,7 @@
   \def\theoremautorefname{Định lý}%
   \def\pageautorefname{trang}%
 }{}
+
+%====================================  Loop
+
+\usepackage{multido}

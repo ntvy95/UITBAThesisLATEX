@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.14159265-2.6-0.99998 (MiKTeX 2.9.6300 64-bit) (preloaded format=xelatex 2017.5.11)  12 MAY 2017 13:13
+This is XeTeX, Version 3.14159265-2.6-0.99998 (MiKTeX 2.9.6300 64-bit) (preloaded format=xelatex 2017.5.11)  14 MAY 2017 01:29
 entering extended mode
 **./thesis.tex
 (thesis.tex
@@ -588,8 +588,8 @@ Package pdftexcmds Info: \pdfdraftmode not found.
 )
 Package iflang Info: Naming convention for patterns: babel.
 )
-("C:\Program Files\MiKTeX 2.9\tex\latex\arrayjob\arrayjob.sty"
-Package: arrayjob 2000/05/03 v1.03 Array management
+("C:\Program Files\MiKTeX 2.9\tex\latex\arrayjob\arrayjobx.sty"
+Package: arrayjobx 2010/05/03 v1.04 Array management
 \dataheight=\count139
 \array@width=\count140
 \index@count=\count141
@@ -784,6 +784,18 @@ Package hyperref Info: Option `unicode' set `true' on input line 114.
 ("C:\Program Files\MiKTeX 2.9\tex\latex\base\ifthen.sty"
 Package: ifthen 2014/09/29 v1.1c Standard LaTeX ifthen package (DPC)
 ))
+("C:\Program Files\MiKTeX 2.9\tex\latex\multido\multido.sty"
+Package: multido 2004/05/17 package wrapper for PSTricks `multido.tex', (HV/RN)
+
+
+("C:\Program Files\MiKTeX 2.9\tex\generic\multido\multido.tex"
+ v1.42, 2010/05/14 <tvz>
+\multido@count=\count160
+\multidocount=\count161
+\multido@stuff=\toks28
+)
+File: multido.tex 2010/05/14 v1.42 `multido' (tvz,hv)
+)
 \@input{Preamble/Premable.aux}
 \openout2 = `Preamble/Premable.aux'.
 
@@ -793,11 +805,11 @@ Package: biblatex 2016/12/05 v3.7 programmable bibliographies (PK/JW/AB)
 
 ("C:\Program Files\MiKTeX 2.9\tex\latex\etoolbox\etoolbox.sty"
 Package: etoolbox 2017/01/02 v2.4 e-TeX tools for LaTeX (JAW)
-\etb@tempcnta=\count160
+\etb@tempcnta=\count162
 )
 ("C:\Program Files\MiKTeX 2.9\tex\latex\logreq\logreq.sty"
 Package: logreq 2010/08/04 v1.0 xml request logger
-\lrq@indent=\count161
+\lrq@indent=\count163
 
 ("C:\Program Files\MiKTeX 2.9\tex\latex\logreq\logreq.def"
 File: logreq.def 2010/08/04 v1.0 logreq spec v1.0
@@ -805,49 +817,49 @@ File: logreq.def 2010/08/04 v1.0 logreq spec v1.0
 ("C:\Program Files\MiKTeX 2.9\tex\latex\xstring\xstring.sty"
 ("C:\Program Files\MiKTeX 2.9\tex\generic\xstring\xstring.tex"
 \@xs@message=\write4
-\integerpart=\count162
-\decimalpart=\count163
+\integerpart=\count164
+\decimalpart=\count165
 )
 Package: xstring 2013/10/13  v1.7c  String manipulations (C Tellechea)
 )
-\c@tabx@nest=\count164
-\c@listtotal=\count165
-\c@listcount=\count166
-\c@liststart=\count167
-\c@liststop=\count168
-\c@citecount=\count169
-\c@citetotal=\count170
-\c@multicitecount=\count171
-\c@multicitetotal=\count172
-\c@instcount=\count173
-\c@maxnames=\count174
-\c@minnames=\count175
-\c@maxitems=\count176
-\c@minitems=\count177
-\c@citecounter=\count178
-\c@savedcitecounter=\count179
-\c@uniquelist=\count180
-\c@uniquename=\count181
-\c@refsection=\count182
-\c@refsegment=\count183
-\c@maxextratitle=\count184
-\c@maxextratitleyear=\count185
-\c@maxextrayear=\count186
-\c@maxextraalpha=\count187
-\c@abbrvpenalty=\count188
-\c@highnamepenalty=\count189
-\c@lownamepenalty=\count190
-\c@maxparens=\count191
-\c@parenlevel=\count192
-\blx@tempcnta=\count193
-\blx@tempcntb=\count194
-\blx@tempcntc=\count195
-\blx@maxsection=\count196
-\blx@maxsegment@0=\count197
-\blx@notetype=\count198
-\blx@parenlevel@text=\count199
-\blx@parenlevel@foot=\count266
-\blx@sectionciteorder@0=\count267
+\c@tabx@nest=\count166
+\c@listtotal=\count167
+\c@listcount=\count168
+\c@liststart=\count169
+\c@liststop=\count170
+\c@citecount=\count171
+\c@citetotal=\count172
+\c@multicitecount=\count173
+\c@multicitetotal=\count174
+\c@instcount=\count175
+\c@maxnames=\count176
+\c@minnames=\count177
+\c@maxitems=\count178
+\c@minitems=\count179
+\c@citecounter=\count180
+\c@savedcitecounter=\count181
+\c@uniquelist=\count182
+\c@uniquename=\count183
+\c@refsection=\count184
+\c@refsegment=\count185
+\c@maxextratitle=\count186
+\c@maxextratitleyear=\count187
+\c@maxextrayear=\count188
+\c@maxextraalpha=\count189
+\c@abbrvpenalty=\count190
+\c@highnamepenalty=\count191
+\c@lownamepenalty=\count192
+\c@maxparens=\count193
+\c@parenlevel=\count194
+\blx@tempcnta=\count195
+\blx@tempcntb=\count196
+\blx@tempcntc=\count197
+\blx@maxsection=\count198
+\blx@maxsegment@0=\count199
+\blx@notetype=\count266
+\blx@parenlevel@text=\count267
+\blx@parenlevel@foot=\count268
+\blx@sectionciteorder@0=\count269
 \labelnumberwidth=\skip65
 \labelalphawidth=\skip66
 \biblabelsep=\skip67
@@ -858,9 +870,9 @@ Package: xstring 2013/10/13  v1.7c  String manipulations (C Tellechea)
 \bibhang=\skip72
 \blx@bcfin=\read3
 \blx@bcfout=\write5
-\c@mincomprange=\count268
-\c@maxcomprange=\count269
-\c@mincompwidth=\count270
+\c@mincomprange=\count270
+\c@maxcomprange=\count271
+\c@mincompwidth=\count272
 Package biblatex Info: Trying to load biblatex default data model...
 Package biblatex Info: ... file 'blx-dm.def' found.
 
@@ -869,72 +881,72 @@ Package biblatex Info: Trying to load biblatex style data model...
 Package biblatex Info: ... file 'numeric-comp.dbx' not found.
 Package biblatex Info: Trying to load biblatex custom data model...
 Package biblatex Info: ... file 'biblatex-dm.cfg' not found.
-\c@afterword=\count271
-\c@savedafterword=\count272
-\c@annotator=\count273
-\c@savedannotator=\count274
-\c@author=\count275
-\c@savedauthor=\count276
-\c@bookauthor=\count277
-\c@savedbookauthor=\count278
-\c@commentator=\count279
-\c@savedcommentator=\count280
-\c@editor=\count281
-\c@savededitor=\count282
-\c@editora=\count283
-\c@savededitora=\count284
-\c@editorb=\count285
-\c@savededitorb=\count286
-\c@editorc=\count287
-\c@savededitorc=\count288
-\c@foreword=\count289
-\c@savedforeword=\count290
-\c@holder=\count291
-\c@savedholder=\count292
-\c@introduction=\count293
-\c@savedintroduction=\count294
-\c@namea=\count295
-\c@savednamea=\count296
-\c@nameb=\count297
-\c@savednameb=\count298
-\c@namec=\count299
-\c@savednamec=\count300
-\c@translator=\count301
-\c@savedtranslator=\count302
-\c@shortauthor=\count303
-\c@savedshortauthor=\count304
-\c@shorteditor=\count305
-\c@savedshorteditor=\count306
-\c@labelname=\count307
-\c@savedlabelname=\count308
-\c@institution=\count309
-\c@savedinstitution=\count310
-\c@lista=\count311
-\c@savedlista=\count312
-\c@listb=\count313
-\c@savedlistb=\count314
-\c@listc=\count315
-\c@savedlistc=\count316
-\c@listd=\count317
-\c@savedlistd=\count318
-\c@liste=\count319
-\c@savedliste=\count320
-\c@listf=\count321
-\c@savedlistf=\count322
-\c@location=\count323
-\c@savedlocation=\count324
-\c@organization=\count325
-\c@savedorganization=\count326
-\c@origlocation=\count327
-\c@savedoriglocation=\count328
-\c@origpublisher=\count329
-\c@savedorigpublisher=\count330
-\c@publisher=\count331
-\c@savedpublisher=\count332
-\c@language=\count333
-\c@savedlanguage=\count334
-\c@pageref=\count335
-\c@savedpageref=\count336
+\c@afterword=\count273
+\c@savedafterword=\count274
+\c@annotator=\count275
+\c@savedannotator=\count276
+\c@author=\count277
+\c@savedauthor=\count278
+\c@bookauthor=\count279
+\c@savedbookauthor=\count280
+\c@commentator=\count281
+\c@savedcommentator=\count282
+\c@editor=\count283
+\c@savededitor=\count284
+\c@editora=\count285
+\c@savededitora=\count286
+\c@editorb=\count287
+\c@savededitorb=\count288
+\c@editorc=\count289
+\c@savededitorc=\count290
+\c@foreword=\count291
+\c@savedforeword=\count292
+\c@holder=\count293
+\c@savedholder=\count294
+\c@introduction=\count295
+\c@savedintroduction=\count296
+\c@namea=\count297
+\c@savednamea=\count298
+\c@nameb=\count299
+\c@savednameb=\count300
+\c@namec=\count301
+\c@savednamec=\count302
+\c@translator=\count303
+\c@savedtranslator=\count304
+\c@shortauthor=\count305
+\c@savedshortauthor=\count306
+\c@shorteditor=\count307
+\c@savedshorteditor=\count308
+\c@labelname=\count309
+\c@savedlabelname=\count310
+\c@institution=\count311
+\c@savedinstitution=\count312
+\c@lista=\count313
+\c@savedlista=\count314
+\c@listb=\count315
+\c@savedlistb=\count316
+\c@listc=\count317
+\c@savedlistc=\count318
+\c@listd=\count319
+\c@savedlistd=\count320
+\c@liste=\count321
+\c@savedliste=\count322
+\c@listf=\count323
+\c@savedlistf=\count324
+\c@location=\count325
+\c@savedlocation=\count326
+\c@organization=\count327
+\c@savedorganization=\count328
+\c@origlocation=\count329
+\c@savedoriglocation=\count330
+\c@origpublisher=\count331
+\c@savedorigpublisher=\count332
+\c@publisher=\count333
+\c@savedpublisher=\count334
+\c@language=\count335
+\c@savedlanguage=\count336
+\c@pageref=\count337
+\c@savedpageref=\count338
 \shorthandwidth=\skip73
 \shortjournalwidth=\skip74
 \shortserieswidth=\skip75
@@ -952,13 +964,13 @@ Package biblatex Info: ... file 'biblatex.def' found.
 
 ("C:\Program Files\MiKTeX 2.9\tex\latex\biblatex\biblatex.def"
 File: biblatex.def 2016/12/05 v3.7 biblatex compatibility (PK/JW/AB)
-\c@textcitecount=\count337
-\c@textcitetotal=\count338
-\c@textcitemaxnames=\count339
-\c@biburlnumpenalty=\count340
-\c@biburlucpenalty=\count341
-\c@biburllcpenalty=\count342
-\c@smartand=\count343
+\c@textcitecount=\count339
+\c@textcitetotal=\count340
+\c@textcitemaxnames=\count341
+\c@biburlnumpenalty=\count342
+\c@biburlucpenalty=\count343
+\c@biburllcpenalty=\count344
+\c@smartand=\count345
 )
 Package biblatex Info: Trying to load bibliography style 'numeric-comp'...
 Package biblatex Info: ... file 'numeric-comp.bbx' found.
@@ -975,16 +987,16 @@ Package biblatex Info: ... file 'standard.bbx' found.
 
 ("C:\Program Files\MiKTeX 2.9\tex\latex\biblatex\bbx\standard.bbx"
 File: standard.bbx 2016/12/05 v3.7 biblatex bibliography style (PK/JW/AB)
-\c@bbx:relatedcount=\count344
-\c@bbx:relatedtotal=\count345
+\c@bbx:relatedcount=\count346
+\c@bbx:relatedtotal=\count347
 )))
 Package biblatex Info: Trying to load citation style 'numeric-comp'...
 Package biblatex Info: ... file 'numeric-comp.cbx' found.
 
 ("C:\Program Files\MiKTeX 2.9\tex\latex\biblatex\cbx\numeric-comp.cbx"
 File: numeric-comp.cbx 2016/12/05 v3.7 biblatex citation style (PK/JW/AB)
-\c@cbx@tempcnta=\count346
-\c@cbx@tempcntb=\count347
+\c@cbx@tempcnta=\count348
+\c@cbx@tempcntb=\count349
 Package biblatex Info: Redefining '\cite'.
 Package biblatex Info: Redefining '\parencite'.
 Package biblatex Info: Redefining '\footcite'.
@@ -1014,7 +1026,84 @@ Package: nomencl 2005/09/22 v4.2 Nomenclature package (LN)
 
 
 Writing nomenclature file thesis.nlo
-)
+("C:\Program Files\MiKTeX 2.9\tex\latex\mathastext\mathastext.sty"
+Package: mathastext 2016/11/06 v1.3r Use the text font in math mode (JFB)
+\mst@exists@muskip=\muskip17
+\mst@forall@muskip=\muskip18
+\mst@prime@muskip=\muskip19
+\mst@do@nonletters=\toks29
+\mst@do@easynonletters=\toks30
+\mst@do@az=\toks31
+\mst@do@AZ=\toks32
+\symmtoperatorfont=\mathgroup4
+\symmtletterfont=\mathgroup5
+LaTeX Font Info:    Overwriting math alphabet `\mathnormalbold' in version `nor
+mal'
+(Font)                  TU/TimesNewRoman(0)/bx/n --> TU/TimesNewRoman(0)/bx/n o
+n input line 1102.
+LaTeX Font Info:    Overwriting math alphabet `\mathnormalbold' in version `bol
+d'
+(Font)                  TU/TimesNewRoman(0)/bx/n --> TU/TimesNewRoman(0)/bx/n o
+n input line 1102.
+LaTeX Font Info:    Overwriting symbol font `mtletterfont' in version `normal'
+(Font)                  TU/TimesNewRoman(0)/m/n --> TU/TimesNewRoman(0)/m/n on 
+input line 1102.
+LaTeX Font Info:    Overwriting symbol font `mtletterfont' in version `bold'
+(Font)                  TU/TimesNewRoman(0)/m/n --> TU/TimesNewRoman(0)/bx/n on
+ input line 1102.
+LaTeX Font Info:    Overwriting symbol font `mtoperatorfont' in version `normal
+'
+(Font)                  TU/TimesNewRoman(0)/m/n --> TU/TimesNewRoman(0)/m/n on 
+input line 1102.
+LaTeX Font Info:    Overwriting symbol font `mtoperatorfont' in version `bold'
+(Font)                  TU/TimesNewRoman(0)/m/n --> TU/TimesNewRoman(0)/bx/n on
+ input line 1102.
+LaTeX Font Info:    Overwriting math alphabet `\Mathbf' in version `normal'
+(Font)                  TU/TimesNewRoman(0)/bx/n --> TU/TimesNewRoman(0)/bx/n o
+n input line 1102.
+LaTeX Font Info:    Overwriting math alphabet `\Mathbf' in version `bold'
+(Font)                  TU/TimesNewRoman(0)/bx/n --> TU/TimesNewRoman(0)/bx/n o
+n input line 1102.
+LaTeX Font Info:    Overwriting math alphabet `\Mathit' in version `normal'
+(Font)                  TU/TimesNewRoman(0)/m/it --> TU/TimesNewRoman(0)/m/it o
+n input line 1102.
+LaTeX Font Info:    Overwriting math alphabet `\Mathit' in version `bold'
+(Font)                  TU/TimesNewRoman(0)/m/it --> TU/TimesNewRoman(0)/bx/it 
+on input line 1102.
+LaTeX Font Info:    Overwriting math alphabet `\Mathsf' in version `normal'
+(Font)                  TU/lmss/m/n --> TU/lmss/m/n on input line 1102.
+LaTeX Font Info:    Overwriting math alphabet `\Mathsf' in version `bold'
+(Font)                  TU/lmss/m/n --> TU/lmss/bx/n on input line 1102.
+LaTeX Font Info:    Overwriting math alphabet `\Mathtt' in version `normal'
+(Font)                  TU/lmtt/m/n --> TU/lmtt/m/n on input line 1102.
+LaTeX Font Info:    Overwriting math alphabet `\Mathtt' in version `bold'
+(Font)                  TU/lmtt/m/n --> TU/lmtt/bx/n on input line 1102.
+
+** Latin letters in the normal (resp. bold) math versions are now
+** set up to use the fonts TU/TimesNewRoman(0)/m(bx)/n
+** Other characters (digits, ...) and \log-like names will be
+** typeset with the n shape.
+** ! and ?
+** punctuation: , . : ; and \colon
+LaTeX Info: Redefining \relbar on input line 1248.
+** minus as endash
+** \hbar
+** + and =
+LaTeX Info: Redefining \Relbar on input line 1350.
+** adding = ; and + to \nfss@catcodes
+** parentheses ( ) [ ] and slash /
+** alldelims: < > \backslash \setminus | \vert \mid \{ and \}
+LaTeX Font Info:    Redeclaring math delimiter \backslash on input line 1396.
+LaTeX Font Info:    Redeclaring math symbol \setminus on input line 1408.
+LaTeX Info: Redefining \models on input line 1417.
+** \# \mathdollar \% \& 
+** \i and \j 
+LaTeX Info: Redefining \i on input line 1988.
+LaTeX Info: Redefining \j on input line 1989.
+** \HUGE has been (re)-defined.
+** mathastext has declared larger sizes for subscripts.
+** To keep LaTeX defaults, use option `defaultmathsizes'.
+))
 Package biblatex Info: Trying to load language 'vietnamese'...
 Package biblatex Info: ... file 'vietnamese.lbx' not found.
 
@@ -1031,8 +1120,8 @@ File: english.lbx 2016/12/05 v3.7 biblatex localization (PK/JW/AB)
 Package biblatex Warning: 'babel/polyglossia' detected but 'csquotes' missing.
 (biblatex)                Loading 'csquotes' recommended.
 
-\@quotelevel=\count348
-\@quotereset=\count349
+\@quotelevel=\count350
+\@quotereset=\count351
 (thesis.aux (Cover/Cover.aux) (TheBoard/TheBoard.aux)
 (Acknowledgement/Acknowledgement.aux) (Comment/Comment.aux)
 (Abstract/Abstract.aux) (Chapter1/Chapter1.aux) (Chapter2/Chapter2.aux)
@@ -1098,7 +1187,7 @@ LaTeX Font Info:    ... okay on input line 7.
 . 
 . Adjusting the maths setup (use [no-math] to avoid this).
 .................................................
-\symlegacymaths=\mathgroup4
+\symlegacymaths=\mathgroup6
 LaTeX Font Info:    Overwriting symbol font `legacymaths' in version `bold'
 (Font)                  OT1/cmr/m/n --> OT1/cmr/bx/n on input line 7.
 LaTeX Font Info:    Redeclaring math accent \acute on input line 7.
@@ -1111,7 +1200,6 @@ LaTeX Font Info:    Redeclaring math accent \check on input line 7.
 LaTeX Font Info:    Redeclaring math accent \hat on input line 7.
 LaTeX Font Info:    Redeclaring math accent \dot on input line 7.
 LaTeX Font Info:    Redeclaring math accent \mathring on input line 7.
-LaTeX Font Info:    Redeclaring math symbol \colon on input line 7.
 LaTeX Font Info:    Redeclaring math symbol \Gamma on input line 7.
 LaTeX Font Info:    Redeclaring math symbol \Delta on input line 7.
 LaTeX Font Info:    Redeclaring math symbol \Theta on input line 7.
@@ -1166,7 +1254,7 @@ Package: nameref 2016/05/21 v2.44 Cross-referencing by name of section
 ("C:\Program Files\MiKTeX 2.9\tex\generic\oberdiek\gettitlestring.sty"
 Package: gettitlestring 2016/05/16 v1.5 Cleanup title references (HO)
 )
-\c@section@level=\count350
+\c@section@level=\count352
 )
 LaTeX Info: Redefining \ref on input line 7.
 LaTeX Info: Redefining \pageref on input line 7.
@@ -1223,7 +1311,7 @@ Package biblatex Info: Reference segment=0 on input line 7.
 
  (Cover/Cover.tex
 
-LaTeX Warning: \oval, \circle, or \line size unavailable on input line 39.
+LaTeX Warning: \oval, \circle, or \line size unavailable on input line 40.
 
 ("C:\Program Files\MiKTeX 2.9\tex\generic\oberdiek\se-ascii-print.def"
 File: se-ascii-print.def 2016/05/16 v1.11 stringenc: Printable ASCII characters
@@ -1272,9 +1360,9 @@ LaTeX Font Info:    Calculating math sizes for size <13> on input line 11.
 LaTeX Font Info:    External font `cmex10' loaded for size
 (Font)              <13> on input line 11.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <9.09996> on input line 11.
+(Font)              <10.83287> on input line 11.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <6.5> on input line 11.
+(Font)              <9.09996> on input line 11.
 )
 \tf@toc=\write8
 \openout8 = `thesis.toc'.
@@ -1358,30 +1446,30 @@ chapter 3.
 
 
 ]
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 41.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 42.
  [7
 
 
 
 ]
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 41.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 42.
  (thesis.aux (Cover/Cover.aux) (TheBoard/TheBoard.aux)
 (Acknowledgement/Acknowledgement.aux) (Comment/Comment.aux)
 (Abstract/Abstract.aux) (Chapter1/Chapter1.aux) (Chapter2/Chapter2.aux)
 (Chapter3/Chapter3.aux))
-Package atveryend Info: Empty hook `AtVeryEndDocument' on input line 41.
-Package atveryend Info: Empty hook `AtEndAfterFileList' on input line 41.
+Package atveryend Info: Empty hook `AtVeryEndDocument' on input line 42.
+Package atveryend Info: Empty hook `AtEndAfterFileList' on input line 42.
 Package logreq Info: Writing requests to 'thesis.run.xml'.
 \openout1 = `thesis.run.xml'.
 
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 41.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 42.
  ) 
 Here is how much of TeX's memory you used:
- 27529 strings out of 427841
- 513534 string characters out of 3152544
- 1260880 words of memory out of 3000000
- 31182 multiletter control sequences out of 15000+200000
- 7257 words of font info for 51 fonts, out of 3000000 for 9000
+ 28254 strings out of 427841
+ 523366 string characters out of 3152544
+ 1270454 words of memory out of 3000000
+ 31902 multiletter control sequences out of 15000+200000
+ 7262 words of font info for 51 fonts, out of 3000000 for 9000
  1328 hyphenation exceptions out of 8191
  49i,9n,69p,10379b,4953s stack positions out of 5000i,500n,10000p,200000b,50000s
 

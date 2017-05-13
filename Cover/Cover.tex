@@ -10,7 +10,8 @@
 
 \vspace{1cm}
 
-\normalsize\student(2) - \student(1)
+\normalsize
+\multido{\i=1+1}{\numberstudent}{\student(\i, 2) - \student(\i, 1)\\}
 
 \vspace{1cm}
 
@@ -22,18 +23,18 @@
 
 \normalsize(\title(2))
 
-\vspace{2cm}
+\vspace{1cm}
 
 Cử nhân ngành Khoa học máy tính
 
-\vspace{2cm}
+\vspace{1cm}
 
 Giảng viên hướng dẫn
 
-\instructor(1)
+\multido{\i=1+1}{\numberinstructor}{\instructor(\i, 1)\\}
 
 \vfill
 
-TP. Hồ Chí Minh, 2017
+\place, \year
 
 \end{titlepage}
