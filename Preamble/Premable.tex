@@ -18,24 +18,6 @@
 \def\year{2017}
 \dataheight=2
 
-
-%==================================== Bibliography
-
-\usepackage[backend=biber,style=numeric-comp,sorting=sample]{biblatex}
-\DeclareSortingScheme{sample}{
-	\sort{
-	\field{title}
-	}
-	\sort{
-	\field{author}
-	}
-	\sort{
-	\field{year}
-	}
-	\sort{\citeorder}
-}
-\addbibresource{Reference/Reference.bib}
-
 %==================================== Nomenclature
 
 \usepackage{nomencl}
@@ -43,9 +25,16 @@
 
 %==================================== Math stuff
 
+\usepackage{mathtools}
 \usepackage{mathastext}
+\DeclarePairedDelimiter{\abs}{\lvert}{\rvert}
 
 %==================================== Table of contents
 
 \setcounter{secnumdepth}{5}
 \setcounter{tocdepth}{5}
+
+%==================================== Figure
+
+\usepackage{graphicx}
+\usepackage{subfigure}

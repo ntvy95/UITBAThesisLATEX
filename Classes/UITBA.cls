@@ -98,10 +98,6 @@
 }
 \makeatother
 
-%====================================  Figure stuff
-
-\usepackage{graphicx}
-
 %====================================  Reference stuff
 
 \usepackage[hidelinks]{hyperref}
@@ -137,3 +133,25 @@
 %====================================  Loop
 
 \usepackage{multido}
+
+%==================================== Bibliography
+
+\usepackage[backend=biber,style=numeric-comp,sorting=sample]{biblatex}
+\DeclareSortingScheme{sample}{
+  \sort{
+  \field{title}
+  }
+  \sort{
+  \field{author}
+  }
+  \sort{
+  \field{year}
+  }
+  \sort{\citeorder}
+}
+\addbibresource{Reference/Reference.bib}
+
+%==================================== Table
+
+\usepackage{array}
+\newcolumntype{L}{>{\centering\arraybackslash}m{3cm}}
