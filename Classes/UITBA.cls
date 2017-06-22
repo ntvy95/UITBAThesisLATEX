@@ -1,4 +1,4 @@
-\RequirePackage{fix-cm}
+﻿\RequirePackage{fix-cm}
 \ProvidesClass{Classes/UITBA}
 \DeclareOption*{%
 	\PassOptionsToClass{\CurrentOption}{scrbook}%
@@ -15,6 +15,10 @@
 
 
  %==================================== Font format
+
+ % Fancy math letters
+
+\usepackage{amsfonts}
 
  % Setup Times New Roman
  \usepackage{fontspec}
