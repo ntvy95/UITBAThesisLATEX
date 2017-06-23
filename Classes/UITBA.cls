@@ -1,17 +1,16 @@
-﻿\RequirePackage{fix-cm}
+\RequirePackage{fix-cm}
 \ProvidesClass{Classes/UITBA}
 \DeclareOption*{%
 	\PassOptionsToClass{\CurrentOption}{scrbook}%
 }
 \ProcessOptions\relax
 \LoadClass[fontsize=13pt, DIV=calc, oneside]{scrbook}
+\usepackage{soul}
 
 % Page format
 \usepackage[a4paper,
         left=3.5cm,right=2cm,top=3cm,bottom=3.5cm
     ]{geometry}
-
-    \usepackage{soul}
 
 
  %==================================== Font format
@@ -46,7 +45,6 @@
 \setlength{\parskip}{6pt}
 \setlength{\parindent}{0.5in}
 \usepackage{indentfirst}
-
 
 %====================================  Language format
 \usepackage[utf8]{inputenc}
@@ -106,9 +104,10 @@
 
 \usepackage[hidelinks]{hyperref}
 \usepackage[all]{hypcap}
-\addto\extrasenglish{%
-  \renewcommand{\chapterautorefname}{Chapter}%
-}
+%\addto\extrasenglish{%
+ % \renewcommand{\chapterautorefname}{Chapter}%
+%}
+
 \hypersetup{
   	unicode=true,
   }
@@ -134,9 +133,11 @@
   \def\pageautorefname{trang}%
 }{}
 
-%====================================  Loop
+%==================================== Table
 
-\usepackage{multido}
+\usepackage{array}
+\newcolumntype{L}{>{\centering\arraybackslash}m{3cm}}
+\usepackage{multirow}
 
 %==================================== Bibliography
 
@@ -155,7 +156,13 @@
 }
 \addbibresource{Reference/Reference.bib}
 
-%==================================== Table
+%==================================== Algorithm
 
-\usepackage{array}
-\newcolumntype{L}{>{\centering\arraybackslash}m{3cm}}
+%\usepackage[linesnumbered,ruled]{algorithm2e}
+\usepackage{algorithm,algorithmic}
+\renewcommand{\algorithmicrequire}{\textbf{Input:}}
+\renewcommand{\algorithmicensure}{\textbf{Output:}}
+
+%====================================  Loop
+
+\usepackage{multido}
