@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.14159265-2.6-0.99998 (MiKTeX 2.9.6350 64-bit) (preloaded format=xelatex 2017.6.19)  22 JUN 2017 23:09
+This is XeTeX, Version 3.14159265-2.6-0.99998 (MiKTeX 2.9.6350 64-bit) (preloaded format=xelatex 2017.6.19)  24 JUN 2017 23:38
 entering extended mode
 **./thesis.tex
 (thesis.tex
@@ -1068,7 +1068,7 @@ Package: algorithmic 2009/08/24 v0.1 Document Style `algorithmic'
 \c@ALC@depth=\count400
 \ALC@tlm=\skip83
 \algorithmicindent=\skip84
-))
+)
 ("C:\Program Files\MiKTeX 2.9\tex\latex\multido\multido.sty"
 Package: multido 2004/05/17 package wrapper for PSTricks `multido.tex', (HV/RN)
 
@@ -1081,21 +1081,6 @@ Package: multido 2004/05/17 package wrapper for PSTricks `multido.tex', (HV/RN)
 )
 File: multido.tex 2010/05/14 v1.42 `multido' (tvz,hv)
 )
-\@input{Preamble/Premable.aux}
-\openout2 = `Preamble/Premable.aux'.
-
-(Preamble/Premable.tex
-("C:\Program Files\MiKTeX 2.9\tex\latex\nomencl\nomencl.sty"
-Package: nomencl 2005/09/22 v4.2 Nomenclature package (LN)
-\nomlabelwidth=\dimen157
-\nom@tempdim=\dimen158
-\nomitemsep=\skip85
-)
-\@nomenclaturefile=\write6
-\openout6 = `thesis.nlo'.
-
-
-Writing nomenclature file thesis.nlo
 ("C:\Program Files\MiKTeX 2.9\tex\latex\mathtools\mathtools.sty"
 Package: mathtools 2017/05/24 v1.19 mathematical typesetting tools
 
@@ -1103,21 +1088,21 @@ Package: mathtools 2017/05/24 v1.19 mathematical typesetting tools
 Package: calc 2014/10/28 v4.3 Infix arithmetic (KKT,FJ)
 \calc@Acount=\count403
 \calc@Bcount=\count404
-\calc@Adimen=\dimen159
-\calc@Bdimen=\dimen160
-\calc@Askip=\skip86
-\calc@Bskip=\skip87
+\calc@Adimen=\dimen157
+\calc@Bdimen=\dimen158
+\calc@Askip=\skip85
+\calc@Bskip=\skip86
 LaTeX Info: Redefining \setlength on input line 80.
 LaTeX Info: Redefining \addtolength on input line 81.
 \calc@Ccount=\count405
-\calc@Cskip=\skip88
+\calc@Cskip=\skip87
 )
 ("C:\Program Files\MiKTeX 2.9\tex\latex\mathtools\mhsetup.sty"
 Package: mhsetup 2017/03/31 v1.3 programming setup (MH)
 )
 ("C:\Program Files\MiKTeX 2.9\tex\latex\amsmath\amsmath.sty"
 Package: amsmath 2016/11/05 v2.16a AMS math features
-\@mathmargin=\skip89
+\@mathmargin=\skip88
 
 For additional information on amsmath, use the `?' option.
 ("C:\Program Files\MiKTeX 2.9\tex\latex\amsmath\amstext.sty"
@@ -1126,11 +1111,11 @@ Package: amstext 2000/06/29 v2.01 AMS text
 ("C:\Program Files\MiKTeX 2.9\tex\latex\amsmath\amsgen.sty"
 File: amsgen.sty 1999/11/30 v2.0 generic functions
 \@emptytoks=\toks34
-\ex@=\dimen161
+\ex@=\dimen159
 ))
 ("C:\Program Files\MiKTeX 2.9\tex\latex\amsmath\amsbsy.sty"
 Package: amsbsy 1999/11/29 v1.2d Bold Symbols
-\pmbraise@=\dimen162
+\pmbraise@=\dimen160
 )
 ("C:\Program Files\MiKTeX 2.9\tex\latex\amsmath\amsopn.sty"
 Package: amsopn 2016/03/08 v2.02 operator names
@@ -1147,7 +1132,7 @@ LaTeX Info: Redefining \dots on input line 475.
 LaTeX Info: Redefining \cdots on input line 596.
 \Mathstrutbox@=\box49
 \strutbox@=\box50
-\big@size=\dimen163
+\big@size=\dimen161
 LaTeX Font Info:    Redeclaring font encoding OML on input line 712.
 LaTeX Font Info:    Redeclaring font encoding OMS on input line 713.
 \macc@depth=\count411
@@ -1160,15 +1145,15 @@ LaTeX Font Info:    Redeclaring font encoding OMS on input line 713.
 \column@=\count416
 \maxfields@=\count417
 \andhelp@=\toks36
-\eqnshift@=\dimen164
-\alignsep@=\dimen165
-\tagshift@=\dimen166
-\tagwidth@=\dimen167
-\totwidth@=\dimen168
-\lineht@=\dimen169
+\eqnshift@=\dimen162
+\alignsep@=\dimen163
+\tagshift@=\dimen164
+\tagwidth@=\dimen165
+\totwidth@=\dimen166
+\lineht@=\dimen167
 \@envbody=\toks37
-\multlinegap=\skip90
-\multlinetaggap=\skip91
+\multlinegap=\skip89
+\multlinetaggap=\skip90
 \mathdisplay@stack=\toks38
 LaTeX Info: Redefining \[ on input line 2817.
 LaTeX Info: Redefining \] on input line 2818.
@@ -1178,14 +1163,14 @@ LaTeX Info: Thecontrolsequence`\)'isalreadyrobust on input line 129.
 LaTeX Info: Thecontrolsequence`\['isalreadyrobust on input line 129.
 LaTeX Info: Thecontrolsequence`\]'isalreadyrobust on input line 129.
 \g_MT_multlinerow_int=\count418
-\l_MT_multwidth_dim=\dimen170
-\origjot=\skip92
-\l_MT_shortvdotswithinadjustabove_dim=\dimen171
-\l_MT_shortvdotswithinadjustbelow_dim=\dimen172
-\l_MT_above_intertext_sep=\dimen173
-\l_MT_below_intertext_sep=\dimen174
-\l_MT_above_shortintertext_sep=\dimen175
-\l_MT_below_shortintertext_sep=\dimen176
+\l_MT_multwidth_dim=\dimen168
+\origjot=\skip91
+\l_MT_shortvdotswithinadjustabove_dim=\dimen169
+\l_MT_shortvdotswithinadjustbelow_dim=\dimen170
+\l_MT_above_intertext_sep=\dimen171
+\l_MT_below_intertext_sep=\dimen172
+\l_MT_above_shortintertext_sep=\dimen173
+\l_MT_below_shortintertext_sep=\dimen174
 )
 ("C:\Program Files\MiKTeX 2.9\tex\latex\mathastext\mathastext.sty"
 Package: mathastext 2016/11/06 v1.3r Use the text font in math mode (JFB)
@@ -1280,17 +1265,17 @@ Package graphics Info: Driver file: xetex.def on input line 99.
 File: xetex.def 2016/07/11 v4.10 LaTeX color/graphics driver for XeTeX (L3/RRM/
 JK)
 ))
-\Gin@req@height=\dimen177
-\Gin@req@width=\dimen178
-))
+\Gin@req@height=\dimen175
+\Gin@req@width=\dimen176
+)
 ("C:\Program Files\MiKTeX 2.9\tex\latex\subfigure\subfigure.sty"
 Package: subfigure 2002/07/30 v2.1.4 subfigure package
-\subfigtopskip=\skip93
-\subfigcapskip=\skip94
-\subfigcaptopadj=\dimen179
-\subfigbottomskip=\skip95
-\subfigcapmargin=\dimen180
-\subfiglabelskip=\skip96
+\subfigtopskip=\skip92
+\subfigcapskip=\skip93
+\subfigcaptopadj=\dimen177
+\subfigbottomskip=\skip94
+\subfigcapmargin=\dimen178
+\subfiglabelskip=\skip95
 \c@subfigure=\count419
 \c@lofdepth=\count420
 \c@subtable=\count421
@@ -1300,8 +1285,45 @@ Package: subfigure 2002/07/30 v2.1.4 subfigure package
 * Local config file subfigure.cfg used *
 ****************************************
 ("C:\Program Files\MiKTeX 2.9\tex\latex\subfigure\subfigure.cfg")
-\subfig@top=\skip97
-\subfig@bottom=\skip98
+\subfig@top=\skip96
+\subfig@bottom=\skip97
+)
+("C:\Program Files\MiKTeX 2.9\tex\latex\caption\caption.sty"
+Package: caption 2016/02/21 v3.3-144 Customizing captions (AR)
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\caption\caption3.sty"
+Package: caption3 2016/05/22 v1.7-166 caption3 kernel (AR)
+Package caption3 Info: TeX engine: e-TeX on input line 67.
+\captionmargin=\dimen179
+\captionmargin@=\dimen180
+\captionwidth=\dimen181
+\caption@tempdima=\dimen182
+\caption@indent=\dimen183
+\caption@parindent=\dimen184
+\caption@hangindent=\dimen185
+)
+Package caption Info: KOMA-Script document class.
+\c@ContinuedFloat=\count423
+Package caption Info: float package is loaded.
+Package caption Info: hyperref package is loaded.
+Package caption Info: hypcap package is loaded.
+Package caption Info: subfigure package is loaded.
+))
+\@input{Preamble/Premable.aux}
+\openout2 = `Preamble/Premable.aux'.
+
+(Preamble/Premable.tex
+("C:\Program Files\MiKTeX 2.9\tex\latex\nomencl\nomencl.sty"
+Package: nomencl 2005/09/22 v4.2 Nomenclature package (LN)
+\nomlabelwidth=\dimen186
+\nom@tempdim=\dimen187
+\nomitemsep=\skip98
+)
+\@nomenclaturefile=\write6
+\openout6 = `thesis.nlo'.
+
+
+Writing nomenclature file thesis.nlo
 )
 Package biblatex Info: Trying to load language 'vietnamese'...
 Package biblatex Info: ... file 'vietnamese.lbx' not found.
@@ -1319,8 +1341,8 @@ File: english.lbx 2016/12/05 v3.7 biblatex localization (PK/JW/AB)
 Package biblatex Warning: 'babel/polyglossia' detected but 'csquotes' missing.
 (biblatex)                Loading 'csquotes' recommended.
 
-\@quotelevel=\count423
-\@quotereset=\count424
+\@quotelevel=\count424
+\@quotereset=\count425
 (thesis.aux (Cover/Cover.aux) (TheBoard/TheBoard.aux)
 (Acknowledgement/Acknowledgement.aux) (Comment/Comment.aux)
 (Abstract/Abstract.aux) (Chapter1/Chapter1.aux) (Chapter2/Chapter2.aux)
@@ -1453,7 +1475,7 @@ Package: nameref 2016/05/21 v2.44 Cross-referencing by name of section
 ("C:\Program Files\MiKTeX 2.9\tex\generic\oberdiek\gettitlestring.sty"
 Package: gettitlestring 2016/05/16 v1.5 Cleanup title references (HO)
 )
-\c@section@level=\count425
+\c@section@level=\count426
 )
 LaTeX Info: Redefining \ref on input line 8.
 LaTeX Info: Redefining \pageref on input line 8.
@@ -1476,6 +1498,8 @@ Package biblatex Info: Reference section=0 on input line 8.
 Package biblatex Info: Reference segment=0 on input line 8.
 Package mathastext Info: current meaning of amsmath \resetMathstrut@ saved on i
 nput line 8.
+Package caption Info: Begin \AtBeginDocument code.
+Package caption Info: End \AtBeginDocument code.
 *geometry* verbose mode - [ newgeometry ] result:
 * driver: pdftex
 * paper: a4paper
@@ -1685,12 +1709,12 @@ Package logreq Info: Writing requests to 'thesis.run.xml'.
 Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 43.
  ) 
 Here is how much of TeX's memory you used:
- 30673 strings out of 427834
- 564035 string characters out of 3152470
- 1325011 words of memory out of 3000000
- 34273 multiletter control sequences out of 15000+200000
+ 31652 strings out of 427834
+ 582188 string characters out of 3152470
+ 1345345 words of memory out of 3000000
+ 35247 multiletter control sequences out of 15000+200000
  535791 words of font info for 68 fonts, out of 3000000 for 9000
  1328 hyphenation exceptions out of 8191
  49i,9n,69p,10379b,4957s stack positions out of 5000i,500n,10000p,200000b,50000s
 
-Output written on thesis.xdv (16 pages, 157148 bytes).
+Output written on thesis.xdv (16 pages, 156976 bytes).

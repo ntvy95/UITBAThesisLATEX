@@ -1,7 +1,7 @@
 \RequirePackage{fix-cm}
 \ProvidesClass{Classes/UITBA}
 \DeclareOption*{%
-	\PassOptionsToClass{\CurrentOption}{scrbook}%
+  \PassOptionsToClass{\CurrentOption}{scrbook}%
 }
 \ProcessOptions\relax
 \LoadClass[fontsize=13pt, DIV=calc, oneside]{scrbook}
@@ -34,8 +34,8 @@
 
 % Change the format of the chapter
 \makeatletter
-\renewcommand*{\chapterformat}{\mbox{\chapapp~\thechapter\autodot\enskip}}
-\renewcommand\chapterlinesformat[3]{\@hangfrom{#2}{\MakeUppercase{#3}}
+\renewcommand*{\chapterformat}{\mbox{\@chapapp~\thechapter\autodot\enskip}}
+  \renewcommand\chapterlinesformat[3]{\@hangfrom{#2}{\MakeUppercase{#3}}
 }
 \makeatother
 \addtokomafont{disposition}{\rmfamily\bfseries}
@@ -109,7 +109,7 @@
 %}
 
 \hypersetup{
-  	unicode=true,
+    unicode=true,
   }
 
 \usepackage{ifthen}
@@ -166,3 +166,17 @@
 %====================================  Loop
 
 \usepackage{multido}
+
+
+%==================================== Math stuff
+
+\usepackage{mathtools}
+\usepackage{mathastext}
+\DeclarePairedDelimiter{\abs}{\lvert}{\rvert}
+
+%==================================== Figure
+
+\usepackage{graphicx}
+\usepackage{subfigure}
+\usepackage{caption}
+\captionsetup{labelsep=space}
